@@ -1,4 +1,4 @@
-Electric Car Range Calculator
+# Electric Car Range Calculator
 This is an electric car range calculator that estimates the potential savings in your electric car's range based on different car tyre rolling resistance classes. Classes and calculations are based on European Commission's tyre labeling rules. The calculator considers five types of tyre classes, from A to E, with class A having the lowest rolling resistance and class E the highest.
 
 How to use the calculator
