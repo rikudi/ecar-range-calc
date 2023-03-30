@@ -12,7 +12,7 @@ Consumption (kWh/100 km) - Enter the energy consumption rate of your electric ca
 
 Electricity price (€/kWh) - Enter the cost of electricity in your area in euros per kilowatt-hour (€/kWh).
 
-Click on the "Calculate" button.
+Results are rendered automatically when input fields are filled.
 
 The calculator will display the estimated average range for each tyre rolling resistance class (A to E) and the range per euro spent on electricity.
 
